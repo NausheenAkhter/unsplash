@@ -1,0 +1,18 @@
+.search-section .search-input {
+    width: 90%;
+    border: none;
+    outline: none;
+    margin: 1em;
+    padding: 1em;
+}
+
+.search-input {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.search-button {
+    background: brown;
+    width: heigh;
+    height: 42px;
+    width: 42px;
+}
